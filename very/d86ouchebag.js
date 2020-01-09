@@ -61,7 +61,6 @@ function BuildArray(size){
 this.length = size
 for (var i = 1; i <= size; i++){
 this[i] = null}
-this[i] = null}
 return this
 }
 
