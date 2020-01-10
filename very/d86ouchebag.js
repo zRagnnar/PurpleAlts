@@ -1,4 +1,4 @@
-var NumberOfWords = 54
+var NumberOfWords = 74
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
@@ -56,6 +56,26 @@ words[51] = "https://enrt.eu/cF74W"
 words[52] = "https://enrt.eu/nvMJ43g"
 words[53] = "https://enrt.eu/SnIY2Fw"
 words[54] = "https://enrt.eu/vZOdf"
+words[55] = "https://enrt.eu/Nmyf"
+words[56] = "https://enrt.eu/eS554pkk"
+words[57] = "https://enrt.eu/MNpc0C"
+words[58] = "https://enrt.eu/V648D0C"
+words[59] = "https://enrt.eu/UOGPW"
+words[60] = "https://enrt.eu/kQXFe"
+words[61] = "https://enrt.eu/oXg9N"
+words[62] = "https://enrt.eu/bfLNz1"
+words[63] = "https://enrt.eu/Au3EH"
+words[64] = "https://enrt.eu/R89vI2"
+words[65] = "https://enrt.eu/LfI4gN8I"
+words[66] = "https://enrt.eu/p133wo"
+words[67] = "https://enrt.eu/pchzx"
+words[68] = "https://enrt.eu/wjoGDL"
+words[69] = "https://enrt.eu/xQ1SCYby"
+words[70] = "https://enrt.eu/IbiwvXsu"
+words[71] = "https://enrt.eu/Bf7Eo"
+words[72] = "https://enrt.eu/gF7fL"
+words[73] = "https://enrt.eu/dzkkxpj"
+words[74] = "https://enrt.eu/0PJ6ig"
 
 function BuildArray(size){
 this.length = size
